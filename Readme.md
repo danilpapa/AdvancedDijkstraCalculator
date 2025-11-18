@@ -5,3 +5,5 @@ The expression is processed character by character. The calculator uses two stac
 The project also includes a simple Stack data structure and a small JavaFX application that displays “Hello METANIT.COM!” in a window. Unit tests are provided to check basic arithmetic operations, trigonometric functions, exponentiation, complex expressions, and error handling.
 
 This project demonstrates how the calculator works, how the stack structure is used, and includes a minimal interface and a set of tests.
+
+![Sample image](images/sample.png)
